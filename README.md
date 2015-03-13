@@ -1,2 +1,8 @@
-# Full-Stack-JavaScript-Development-With-MEAN
-Book Coding Examples by  Colin J Ihrig and Adam Bretz
+Book:   Full Stack JavaScript Development With MEAN
+Author: Colin J Ihrig and Adam Bret
+
+----------------------------------------------------
+
+Coding Exaples
+
+----------------------------------------------------
